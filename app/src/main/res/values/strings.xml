@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Doing-Today</string>
+    <string name="app_name">Doing Today</string>
+    <string name="click_here">Click Here</string>
+    <string name="no_to_dos">You have nothing your doing today!</string>
 </resources>
